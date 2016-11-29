@@ -13,6 +13,7 @@ public final class FinalCls {
 		
 		FinalCls f1= new FinalCls();
 		f1.showMethod();
+		System.out.println("hello");
 
 	}
 
