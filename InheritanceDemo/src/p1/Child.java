@@ -4,7 +4,7 @@ import java.io.EOFException;
 import java.io.IOException;
 
 class Parent
-{
+{// constructor
 	public Parent(int i)
 	{
 		System.out.println("Super class constructor ");
